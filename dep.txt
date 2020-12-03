@@ -1,3 +1,7 @@
 Sample text file is created for pushing to git
 hi hello
+<<<<<<< HEAD
 dev 2 changes
+=======
+dev1 changes
+>>>>>>> 589e5eee2c94c57db860a0d52cc823e66e4d1c35
